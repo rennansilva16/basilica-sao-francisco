@@ -7,10 +7,6 @@ body {
 
 header {
   background: linear-gradient(89.8deg, #FFC862 0.07%, #B88722 14.55%, #FFE498 52.5%, #D79F30 70.47%, #CC9934 80.96%, #CD9223 99.93%);
-  width: 100%;
-  height: auto;
-  padding: 0 0 0.5rem 0;
-
 }
 
 .nav-ul-header {
@@ -44,12 +40,4 @@ header p {
   line-height: 100%;
   letter-spacing: 0%;
   color: #ffffff;
-}
-
-.header-left {
-  margin-right: 10rem;
-}
-
-.header-right {
-  margin-left: 10rem;
 }
